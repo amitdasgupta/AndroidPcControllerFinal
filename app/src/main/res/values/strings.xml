@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPcControllerFinal</string>
+    <string name="action_connect">connection is gonna start</string>
+    <string name="file_share">sharing is gonna start</string>
+</resources>

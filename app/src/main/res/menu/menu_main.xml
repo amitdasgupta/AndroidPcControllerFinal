@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.sample.YourActivity"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item android:id="@+id/action_location_found"
+        android:icon="@drawable/ic_phonelink_setup_black_24dp"
+        android:title="@string/action_connect"
+        yourapp:showAsAction="ifRoom" />
+    <item android:id="@+id/sharefiles"
+        android:icon="@drawable/ic_phonelink_ring_black_24dp"
+        android:title="@string/file_share"
+        yourapp:showAsAction="ifRoom" />
+</menu>
