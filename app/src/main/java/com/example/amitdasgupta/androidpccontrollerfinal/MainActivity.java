@@ -180,8 +180,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return  true;
 
         }
-        else
-            if (id==R.id.sharefiles)
+        else if (id==R.id.sharefiles)
             {
 
             }
